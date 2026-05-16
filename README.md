@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Kartikk1820)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/Kartikk1820)
 
 <h1 align="center">Hi 👋, I'm Kartik Kaushik</h1>
 <h3 align="center">Python Backend Developer · Django REST Framework · AWS · Docker</h3>
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Backend%20%2F%20Python%20%2F%20AWS-brightgreen?style=flat" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left">
   🏢 <strong>Backend Developer @ Anaad Pvt. Ltd.</strong> — live eCommerce platform with Django REST APIs, Juspay payments, Celery + Redis, and Docker
@@ -35,7 +35,7 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kartikkaushik1820" target="_blank">
+  <a href="https://www.linkedin.com/in/kartikkaushik1820/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikkaushik1820" height="30" width="40" />
   </a>
 </p>
